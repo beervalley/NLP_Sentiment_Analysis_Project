@@ -1,5 +1,5 @@
 # NLP_Sentiment_Analysis_Project
-Classifying movie reviews for sentiment analysis using Nature Language Processing
+Classifying movie reviews for sentiment analysis using Nature Language Processing and Out-of-core Learning
 
 •	Built an application for classifying movie reviews for sentiment analysis with an online classifier.
 
